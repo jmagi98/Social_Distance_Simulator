@@ -8,4 +8,4 @@ steps to run:
 - run project
   - ```python3 simulation.py```
 - input paramters as numbers:
-  -ex : number of people as 1 and percentage as 50
+  - ex: number of people as 1 and percentage as 50
