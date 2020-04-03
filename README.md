@@ -1,7 +1,8 @@
 # Social_Distance_Simulator
 Random simulator for social distance visulaziation
+
 steps to run:
--clone/download project
+- clone/download project
 -install pygame
   - ```pip install pygame```
 - run project
